@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gu-Pet/static/css/main.a68e5e82.css",
+    "main.js": "/Gu-Pet/static/js/main.e4923025.js",
+    "static/js/787.b70d33ad.chunk.js": "/Gu-Pet/static/js/787.b70d33ad.chunk.js",
+    "static/media/herobg2.png": "/Gu-Pet/static/media/herobg2.719a5024daeeedf1e868.png",
+    "static/media/dogmain.png": "/Gu-Pet/static/media/dogmain.c1fccf019c12d1207d8d.png",
+    "static/media/gupetlogo.png": "/Gu-Pet/static/media/gupetlogo.0716b4a2798efafa2464.png",
+    "index.html": "/Gu-Pet/index.html",
+    "main.a68e5e82.css.map": "/Gu-Pet/static/css/main.a68e5e82.css.map",
+    "main.e4923025.js.map": "/Gu-Pet/static/js/main.e4923025.js.map",
+    "787.b70d33ad.chunk.js.map": "/Gu-Pet/static/js/787.b70d33ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68e5e82.css",
+    "static/js/main.e4923025.js"
+  ]
+}
